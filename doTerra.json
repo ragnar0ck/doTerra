@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "ARBOVITAE",
+        "short-description": "ÓLEO ESSENCIAL DE ARBORVITAE",
+        "how-to-use": "A, T, N",
+        "description": "Conhecida como a “árvore da vida”, Arborvitae é majestosa e abundante em benefícios. Utilize durante a meditação para promover sentimentos de paz e serenidade",
+        "code": "60203804",
+        "volume": "Frasco 5ml",
+        "regular-price": "Regular R$ 173,00",
+        "member-price:": "Membros* R$ 130,00",
+        "pv": "25"
+    },
+    {
+        "id": 2,
+        "name": "BASIL",
+        "short-description": "ÓLEO ESSENCIAL DE MANJERICÃO",
+        "how-to-use": "A,T,N",
+        "description": "O Manjericão possui um aroma acolhedor e herbáceo que ajuda a reduzir sentimentos de tensão quando aplicado topicamente na nuca e nas têmporas",
+        "code": "60203876",
+        "volume": "Frasco 15ml",
+        "regular-price": "Regular R$ 227,00",
+        "member-price:": "Membros* R$ 170,00",
+        "pv": "23"
+    },
+    {
+        "id": 3,
+        "name": "BERGAMOT",
+        "short-description": "ÓLEO ESSENCIAL DE BERGAMOTA",
+        "how-to-use": "A,T,S",
+        "description": "A Bergamota é a mais delicada das plantas cítricas e é muito utilizada pelos italianos para ajudar a reduzir sentimentos de estresse para ajudar a revigorar a pele.",
+        "code": "60203875",
+        "volume": "Frasco 15ml",
+        "regular-price": "Regular R$ 219,00",
+        "member-price:": "Membros* R$ 164,00",
+        "pv": "31"
+    },
+    {
+        "id": 4,
+        "name": "",
+        "short-description": "",
+        "how-to-use": "",
+        "description": "",
+        "code": "",
+        "volume": "",
+        "regular-price": "",
+        "member-price:": "",
+        "pv": ""
+    }
+]
