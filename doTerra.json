@@ -9,7 +9,8 @@
         "volume": "Frasco 5ml",
         "regular_price": "R$ 173,00",
         "member_price": "R$ 130,00",
-        "pv": "25"
+        "pv": "25",
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Arbovitae5ml.png"
     },
     {
         "id": 2,
@@ -21,7 +22,8 @@
         "volume": "Frasco 15ml",
         "regular_price": "R$ 227,00",
         "member_price": "R$ 170,00",
-        "pv": "23"
+        "pv": "23",
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Basil5ml.png"
     },
     {
         "id": 3,
@@ -33,7 +35,8 @@
         "volume": "Frasco 15ml",
         "regular_price": "R$ 219,00",
         "member_price": "R$ 164,00",
-        "pv": "31"
+        "pv": "31",
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Bergamot5ml.png"
     },
     {
         "id": 4,
@@ -45,6 +48,7 @@
         "volume": "Frasco 15ml",
         "regular_price": "R$ 144,00",
         "member_price": "R$ 108,00",
-        "pv": "23"
+        "pv": "23",
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
     }
 ]
