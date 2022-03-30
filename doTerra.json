@@ -8,7 +8,7 @@
         "code": "60203804",
         "volume": "Frasco 5ml",
         "regular_price": "R$ 173,00",
-        "member_price:": "R$ 130,00",
+        "member_price": "R$ 130,00",
         "pv": "25"
     },
     {
@@ -20,7 +20,7 @@
         "code": "60203876",
         "volume": "Frasco 15ml",
         "regular_price": "R$ 227,00",
-        "member_price:": "R$ 170,00",
+        "member_price": "R$ 170,00",
         "pv": "23"
     },
     {
@@ -32,7 +32,7 @@
         "code": "60203875",
         "volume": "Frasco 15ml",
         "regular_price": "R$ 219,00",
-        "member_price:": "R$ 164,00",
+        "member_price": "R$ 164,00",
         "pv": "31"
     },
     {
@@ -44,7 +44,7 @@
         "code": "60203323",
         "volume": "Frasco 15ml",
         "regular_price": "R$ 144,00",
-        "member_price:": "R$ 108,00",
+        "member_price": "R$ 108,00",
         "pv": "23"
     }
 ]
