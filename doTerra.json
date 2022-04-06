@@ -156,16 +156,16 @@
         "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
     },
     {
-       "id": 13,
-       "name": "Black Pepper",
-       "short_description": "ÓLEO ESSENCIAL DE PIMENTA-PRETA",
-       "how_to_use": "A, T, S",
-       "description": "Com benefícios notáveis, o óleo essencial de Pimenta-ptreta pode ser utilizado para ajudar a reduzir os efeitos de ameaças sazonais e ambientais. Deve ser usado com cautela quando aplicado topicamente.",
-       "code": "60206619",
-       "volume": "5ml",
-       "regular_price": "R$ 176,00",
-       "member_price": "R$ 132,00",
-       "pv": "25"
-       "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
-   },
+        "id": 13,
+        "name": "PEPPERMINT 2",
+        "short_description": "ÓLEO ESSENCIAL DE HORTElÃ PIMENTA",
+        "how_to_use": "A,T,S",
+        "description": "Hortelã-pimenta como óleo essencial, é útil para promover sensação de um melhor respirar e para ajudar você a manter o ritmo durante o dia.",
+        "code": "60203323",
+        "volume": "Frasco 15ml",
+        "regular_price": "R$ 144,00",
+        "member_price": "R$ 108,00",
+        "pv": "23",
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
+    },
 ]
