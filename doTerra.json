@@ -9,7 +9,8 @@
        "volume": "5ml",
        "regular_price": "R$ 173,00",
        "member_price": "R$ 130,00",
-       "pv": "25"
+       "pv": "25",
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
    },
    {
        "id": 6,
@@ -21,7 +22,8 @@
        "volume": "15ml",
        "regular_price": "R$ 227,00",
        "member_price": "R$ 170,00",
-       "pv": "23"
+       "pv": "23",
+       "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
    },
    {
        "id": 7,
