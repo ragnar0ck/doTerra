@@ -11,5 +11,18 @@
         "member_price": "R$ 130,00",
         "pv": "25",
         "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Basil5ml.png"
+    },
+    {
+        "id": 2,
+        "name": "Juniper Berry",
+        "short_description": "ÓLEO ESSENCIAL DE ZIMBRO",
+        "how_to_use": "A, T, N",
+        "description": "O óleo essencial de Zimbro tem vasta história\nde usos tradicionais e benéficos. Com habilidade\nde limpar e purificar o ar e produzir um efeito\ncalmante e equilibrante.",
+        "code": "60203921",
+        "volume": "5ml",
+        "regular": "R$ 144,00",
+        "member": "R$ 108,00",
+        "pv": "21",
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Basil5ml.png"
     }
 ]
