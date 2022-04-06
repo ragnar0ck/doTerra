@@ -51,17 +51,5 @@
         "pv": "23",
         "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
     },
-    {
-       "id": 5,
-       "name": "Black Pepper",
-       "short_description": "ÓLEO ESSENCIAL DE PIMENTA-PRETA",
-       "how_to_use": "A, T, S",
-       "description": "Com benefícios notáveis, o óleo essencial de Pimenta-ptreta pode ser utilizado para ajudar a reduzir os efeitos de ameaças sazonais e ambientais. Deve ser usado com cautela quando aplicado topicamente.",
-       "code": "60206619",
-       "volume": "5ml",
-       "regular_price": "R$ 176,00",
-       "member_price": "R$ 132,00",
-       "pv": "25",
-       "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
-   }
+
 ]
