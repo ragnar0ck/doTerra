@@ -155,17 +155,4 @@
         "pv": "23",
         "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
     },
-    {
-        "id": 13,
-        "name": "PEPPERMINT 2",
-        "short_description": "ÓLEO ESSENCIAL DE HORTElÃ PIMENTA",
-        "how_to_use": "A,T,S",
-        "description": "Hortelã-pimenta como óleo essencial, é útil para promover sensação de um melhor respirar e para ajudar você a manter o ritmo durante o dia.",
-        "code": "60203323",
-        "volume": "Frasco 15ml",
-        "regular_price": "R$ 144,00",
-        "member_price": "R$ 108,00",
-        "pv": "23",
-        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint5ml.png"
-    }
 ]
