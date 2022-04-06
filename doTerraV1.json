@@ -24,5 +24,17 @@
         "member_price": "R$ 108,00",
         "pv": "21",
         "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Basil5ml.png"
-    }
+    },
+        "id": 3,
+        "name": "Cardamom",
+        "short_description": "ÓLEO ESSENCIAL DE CARDAMOMO",
+        "how_to_use": "A | T | N",
+        "description": "Parente próximo do Gengibre, o Cardamomo é conhecido por ser um valioso tempero culinário. Nativo do sudeste da Ásia, o Cardamomo é muito utilizado pelos indianos por seu aroma fresco e mentolado.",
+        "code": "60203805",
+        "volume": "5ml",
+        "regular_price": "R$ 204,00",
+        "member_price": "R$ 153,00",
+        "pv": "29",
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Peppermint15ml.png"
+    },
 ]
