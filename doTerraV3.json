@@ -10,7 +10,7 @@
         "regular_price": "R$ 276,00",
         "member_price": "R$ 207,00",
         "pv": "37",
-        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Adaptiv15ml.png"
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Adaptive15ml.png"
     },
     {
         "id": 2,
@@ -555,7 +555,7 @@
         "regular_price": "R$ 103,00",
         "member_price": "R$ 77,00",
         "pv": "15",
-        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/BreathTouch.png"
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/BreatheTouch.png"
     },
     {
         "id": 44,
@@ -1543,7 +1543,7 @@
         "regular_price": "R$ 31,00",
         "member_price": "R$ 23,00",
         "pv": "4",
-        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Lemongress5ml.png"
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Lemongrass5ml.png"
     },
     {
         "id": 120,
@@ -1660,7 +1660,7 @@
         "regular_price": "R$ 479,00",
         "member_price": "R$ 359,00",
         "pv": "51",
-        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Mirrh15ml.png"
+        "picture": "https://raw.githubusercontent.com/ragnar0ck/doTerra/main/Images/Myrrh15ml.png"
     },
     {
         "id": 129,
